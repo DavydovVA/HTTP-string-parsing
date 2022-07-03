@@ -2,6 +2,7 @@
 #define HTTP_REQUEST_HEADER
 
 #include <string>
+#include <vector>
 #include <unordered_map>
 
 
