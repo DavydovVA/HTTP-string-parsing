@@ -1,4 +1,6 @@
-## To build and run httpParser application, execute following commands from build folder:
-1) cmake ../source
-2) cmake --build .
-3) ./httpParser
+## To build and run httpParser application, execute following commands from root folder:
+1) mkdir build
+2) cd build/
+3) cmake ../source
+4) cmake --build .
+5) ./httpParser
