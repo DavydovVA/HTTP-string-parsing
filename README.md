@@ -3,4 +3,4 @@
 2) cd build/
 3) cmake ../source
 4) cmake --build .
-5) ./httpParser
+5) ./httpParser (Windows: go to Debug folder and run httpParser.exe)
